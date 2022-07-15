@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**aparnademo/aparnademo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I am Aparna, working as an Application Development Associate at Accenture
+- 💻 I’m a full stack MERN developer and a content writer on Twitter
+- 🎓 I graduated in 2021 from GGSIPU, Delhi (B.Tech, CSE) with a CGPA of 9.12
+- 🌱 I’m currently learning Vue JS & Cloud(Azure)
+- 💞️ Interests: Listening songs, creating content, drawing and painting
+- 💬 Ask me about web dev & open source
+- 😄 Pronouns: she/her
+
+
+
