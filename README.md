@@ -2,12 +2,11 @@
 
 
 
-- 👀 I am Aparna, working as an Application Development Associate at Accenture
-- 💻 I’m a full stack MERN developer and a content writer on Twitter
-- 🎓 I graduated in 2021 from GGSIPU, Delhi (B.Tech, CSE) with a CGPA of 9.12
-- 🌱 I’m currently learning Vue JS & Cloud(Azure)
-- 💞️ Interests: Listening songs, creating content, drawing and painting
-- 💬 Ask me about web dev & open source
+- 👀 I am Preeti
+- 👩‍💼 I am a Dental surgeon turned into Tech enthusiast with my daughter(https://twitter.com/AparnaSoneja)
+- 💻 I’m an Open source collaborator and a content writer on Twitter
+- 🌱 I’m currently learning GitHub from my daughter(https://github.com/aparna2071)
+- 💞️ Interests: Cooking, learning new technologies, drawing
 - 😄 Pronouns: she/her
 
 
